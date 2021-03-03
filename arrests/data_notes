@@ -1,0 +1,22 @@
+The file arrests.csv contains Coconino County Detention Facility bookings data from 1 January 2015 through July 2020. This data is public information requested and wrangled by FlagStats.
+
+violent_crime reflects the FBI definition of a violent crime.
+It is true when either of the following is true:
+- The charge contains either “murder”, “homicide”, “manslaughter”, “rape”, “robbery”, or “aggravated assault”
+- The charge contains “gang” and also contains either “threat”, “weapon”, or “assault”
+
+violent_threat_crime reflects crimes that involve violence or the threat thereof.
+It is true when:
+- The charge contains “murder”, “homicide”, “manslaughter”, “rape”, “robbery”, “assault”, “death”, “imprisonment”, “kidnap”, “fight”, “weapon”, “gang”, “threat”, or “violence”
+
+property_crime reflects property crimes.
+It is true when:
+— The charge contains “theft”, “robbery”, “burglary”, “damage prop”, “arson”, or “vandal”
+
+drug_alc_crime reflects drug and alcohol crimes.
+It is true when:
+— The charge contains “drug”, “alcohol”, “liquor”, or “under influence of”
+
+unsheltered_crime reflects arrests due to the criminalization of being unsheltered.
+It is true when:
+— The charge contains “camp on”, “in park”, “in public”, “loitering”, “to beg”, “panhand”, or “sleep”
