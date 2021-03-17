@@ -1,3 +1,7 @@
+#############################################################################
+                            ### arrests.csv ###
+#############################################################################
+
 The file arrests.csv contains Coconino County Detention Facility bookings data from 1 January 2015 through July 2020. This data is public information requested and wrangled by FlagStats.
 
 violent_crime reflects the FBI definition of a violent crime.
