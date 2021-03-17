@@ -1,0 +1,11 @@
+#############################################################################
+                   ### FPD_costs_by_program_FY21.csv ###
+#############################################################################
+
+The file FPD_costs_by_program_FY21.csv contains data reflecting the Flagstaff Police Department's costs by program.
+
+It was downloaded from the results of the City of Flagstaff's Priority Based Budgeting survey:
+https://openpbbdata.net/Flagstaff/
+
+is_reform reflects our classification of whether FPD programs constitute efforts police reform. 
+It is true for programs whose primary function is reform-oriented. Otherwise it is false. 
